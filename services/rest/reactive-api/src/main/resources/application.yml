@@ -1,3 +1,9 @@
 spring:
   application:
     name: Just Reactive API Application
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html

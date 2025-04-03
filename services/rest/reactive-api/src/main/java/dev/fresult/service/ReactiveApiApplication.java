@@ -9,11 +9,9 @@ import reactor.core.publisher.Mono;
 
 @SpringBootApplication
 public class ReactiveApiApplication {
-
   public static void main(String[] args) {
     SpringApplication.run(ReactiveApiApplication.class, args);
   }
-
 }
 
 @RestController

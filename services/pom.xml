@@ -16,6 +16,7 @@
     <description>Services</description>
     <modules>
         <module>rest</module>
+        <module>batch</module>
     </modules>
 
     <dependencies>

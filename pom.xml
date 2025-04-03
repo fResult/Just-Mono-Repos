@@ -19,7 +19,7 @@
 
     <modules>
         <module>services</module>
-        <module>commons</module>
+        <module>bounded-contexts</module>
     </modules>
 
     <properties>
